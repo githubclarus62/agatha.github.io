@@ -310,8 +310,8 @@ header .navbar ul li a:hover {
 }
 
 .family .box-container .box {
-  height: 27rem;
-  width: 33rem;
+  height: 60rem;
+  width: 38rem;
   border-radius: 1rem;
   margin: 1rem;
   overflow: hidden;
@@ -325,7 +325,7 @@ header .navbar ul li a:hover {
 }
 
 .family .box-container .box:hover img {
-  transform: scale(1.5);
+  transform: scale(1.1);
 }
 
 /* contact section css */
